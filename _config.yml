@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://myres.github.io
+title: dugu blog
+email: abel.liu.temp@outlook.com
+author: dugu
+description: My awesome new site
+paginate: 10
+google_analytics: 
